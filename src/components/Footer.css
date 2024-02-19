@@ -1,0 +1,8 @@
+.footer{
+    color: red;
+    align-items: center;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 8rem;
+}

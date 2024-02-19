@@ -1,0 +1,36 @@
+.naming{
+    color : red;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+}
+.desc{
+    color : white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.allproj{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    gap: 100px; /* Adjust the gap between grid items */
+    margin-left: 5%;
+}
+.eachProj img{
+    width: auto; 
+    height: 20rem; 
+    display: block;
+    border-radius: 5rem;
+    transition: transform 0.3s ease;
+}
+.eachProj img:hover{
+    width: auto; 
+    height: 20rem;
+    display: block;
+    border-radius: 5rem;
+    transform: scale(1.2);
+}

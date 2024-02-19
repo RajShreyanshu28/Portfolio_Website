@@ -1,0 +1,32 @@
+.gridmake{
+    margin-top: 10%;
+    display: grid; 
+    grid-template-columns: 2fr 2fr; 
+    grid-gap: 10px; 
+    border: 1px solid black; 
+    width: 100%; 
+    margin-left : 10%;
+}
+.techstack{
+    width: 50%;
+    color : black;
+}
+
+.learning{
+    height : 20%;
+    width : 50%;
+    font-weight: bold;
+    color : black;
+}
+
+.label{
+    color : red;
+    font-weight: bold;
+}
+.naming{
+    color : red;
+    font-size: 40px;
+    font-weight: bold;
+    justify-content: center;
+    text-decoration: underline;
+}

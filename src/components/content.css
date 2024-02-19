@@ -1,0 +1,41 @@
+.grid-maker{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 280px;
+    align-items: center;    
+    margin-top: 5rem;
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+.leftsection{
+    color: white ;
+    height: 100%;
+    width: 100%;
+    justify-content: left;
+    font-size: 220%;  
+    display: block;
+}
+.n{
+    color : red;
+    font-size: 275%;
+    font-weight: bold;
+}
+.icon{
+    margin-right: 13px;
+}
+.rightsection img{
+    height: 70%;
+    width: 70%;
+    justify-content: center;
+    display: block;
+    border-radius: 5rem;
+    transition: transform 0.3s ease;
+}
+.rightsection :hover{
+    height: 70%;
+    width: 70%;
+    justify-content: center;
+    display: block;
+    border-radius: 5rem;
+    transform: scale(1.2);
+}
