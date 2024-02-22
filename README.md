@@ -2,7 +2,7 @@
 ![image](https://github.com/RajShreyanshu28/Portfolio_Website/assets/155971459/d1fb9181-9900-49f9-b88d-9a79dd120f86)
 
 Description:
-This project is a personal portfolio website built using React.js. It serves as a platform to showcase one's skills, projects, about section, and a means for interested parties to get in touch. The website features a clean and modern design with easy navigation, making it an effective tool for both personal branding and professional networking.
+This project is a personal portfolio website built using React.js. It serves as a platform to showcase my skills, projects, about section, and a means for interested parties to get in touch. The website features a clean and modern design with easy navigation, making it an effective tool for both personal branding and professional networking.
 
 Features:
 Navbar:            Allows easy navigation between different sections of the website.
