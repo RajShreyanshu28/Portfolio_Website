@@ -27,6 +27,7 @@ Footer:
 Contains additional information such as copyright notices, links to relevant resources, or additional contact details.
 
 Installation:
+
 To run this project locally, follow these steps:
 
 Clone the repository to your local machine using git clone.
@@ -37,11 +38,20 @@ Open your browser and navigate to http://localhost:3000 to view the website.
 
 Technologies Used:
 
-React.js: Used as the JavaScript library for building the user interface.
-HTML/CSS: Utilized for structuring and styling the website.
-JavaScript: Employed for interactivity and functionality within the website.
-Bootstrap: Potentially used for additional styling and layout components.
-Git: Utilized for version control and collaboration among team members.
+React.js: 
+Used as the JavaScript library for building the user interface.
+
+HTML/CSS: 
+Utilized for structuring and styling the website.
+
+JavaScript: 
+Employed for interactivity and functionality within the website.
+
+Bootstrap:
+Potentially used for additional styling and layout components.
+
+Git: 
+Utilized for version control and collaboration among team members.
 
 Usage:
 This project can be used as an online for me. I can customize the content, styling, and functionality according to my preferences and requirements. It provides a solid website for showcasing skills, projects, and personal information in a professional and visually appealing manner.
